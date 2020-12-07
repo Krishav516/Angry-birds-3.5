@@ -1,2 +1,2 @@
-# Angry-birds-3.5
-play the game ..................
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
